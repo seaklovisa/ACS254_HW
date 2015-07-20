@@ -1,0 +1,18 @@
+E:\Web\ACS254\Example01\bin\Debug\Example01.exe.config
+E:\Web\ACS254\Example01\obj\Debug\Example01.Properties.Resources.resources
+E:\Web\ACS254\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+E:\Web\ACS254\Example01\bin\Debug\Example01.exe
+E:\Web\ACS254\Example01\bin\Debug\Example01.pdb
+E:\Web\ACS254\Example01\obj\Debug\Example01.exe
+E:\Web\ACS254\Example01\obj\Debug\Example01.pdb
+E:\Web\ACS254\Example01\obj\Debug\Example01.Form1.resources
+E:\Web\ACS254\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\yoda\ACS254 (2)\ACS254\Example01\bin\Debug\Example01.exe.config
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.exe
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.pdb
+D:\yoda\ACS254 (2)\ACS254\Example01\bin\Debug\Example01.exe
+D:\yoda\ACS254 (2)\ACS254\Example01\bin\Debug\Example01.pdb
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.Form1.resources
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
