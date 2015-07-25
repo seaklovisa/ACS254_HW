@@ -16,3 +16,18 @@ D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.csprojResolveAssemblyRef
 D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.Form1.resources
 D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.Properties.Resources.resources
 D:\yoda\ACS254 (2)\ACS254\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\GitHub\ACS254_HW\ACS254\Example01\bin\Debug\Example01.exe.config
+D:\GitHub\ACS254_HW\ACS254\Example01\obj\Debug\Example01.exe
+D:\GitHub\ACS254_HW\ACS254\Example01\obj\Debug\Example01.pdb
+D:\yoda\ACS254\Example01\bin\Debug\Example01.exe.config
+D:\yoda\ACS254\Example01\obj\Debug\Example01.exe
+D:\yoda\ACS254\Example01\obj\Debug\Example01.pdb
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\bin\Debug\Example01.exe.config
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\bin\Debug\Example01.exe
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\bin\Debug\Example01.pdb
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.exe
+C:\Users\seaklovisa\Desktop\ACS254\ACS254\Example01\obj\Debug\Example01.pdb
